@@ -153,6 +153,7 @@ def main():
             print("\nOpção inválida! Tente novamente.")
         
         input("\nPressione ENTER para continuar...")
+        
 
 if __name__ == "__main__":
     main()
